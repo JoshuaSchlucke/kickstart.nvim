@@ -681,6 +681,7 @@ require('lazy').setup({
             language = 'auto',
           },
         },
+        asm_lsp = {},
         -- ansiblels = {},
         -- dockerls = {},
         -- docker_compose_language_service = {},
